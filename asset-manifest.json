@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/raj-webfolio/static/css/main.5b0f8e31.chunk.css",
-    "main.js": "/raj-webfolio/static/js/main.68cdb069.chunk.js",
-    "main.js.map": "/raj-webfolio/static/js/main.68cdb069.chunk.js.map",
+    "main.css": "/raj-webfolio/static/css/main.d2ed4a3f.chunk.css",
+    "main.js": "/raj-webfolio/static/js/main.9f049cd6.chunk.js",
+    "main.js.map": "/raj-webfolio/static/js/main.9f049cd6.chunk.js.map",
     "runtime-main.js": "/raj-webfolio/static/js/runtime-main.f2f6a18d.js",
     "runtime-main.js.map": "/raj-webfolio/static/js/runtime-main.f2f6a18d.js.map",
     "static/css/2.047b873d.chunk.css": "/raj-webfolio/static/css/2.047b873d.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.54787e8e.chunk.js.map": "/raj-webfolio/static/js/3.54787e8e.chunk.js.map",
     "index.html": "/raj-webfolio/index.html",
     "static/css/2.047b873d.chunk.css.map": "/raj-webfolio/static/css/2.047b873d.chunk.css.map",
-    "static/css/main.5b0f8e31.chunk.css.map": "/raj-webfolio/static/css/main.5b0f8e31.chunk.css.map",
+    "static/css/main.d2ed4a3f.chunk.css.map": "/raj-webfolio/static/css/main.d2ed4a3f.chunk.css.map",
     "static/js/2.7956b845.chunk.js.LICENSE.txt": "/raj-webfolio/static/js/2.7956b845.chunk.js.LICENSE.txt",
     "static/media/index.css": "/raj-webfolio/static/media/BestermindRegular.e58a1922.ttf",
     "static/media/RaniRajLaxmiSoni-Resume-Animation.8352b9c5.pdf": "/raj-webfolio/static/media/RaniRajLaxmiSoni-Resume-Animation.8352b9c5.pdf",
@@ -102,6 +102,7 @@
     "static/media/markdown.62e50cf0.svg": "/raj-webfolio/static/media/markdown.62e50cf0.svg",
     "static/media/materialui.518da2c0.svg": "/raj-webfolio/static/media/materialui.518da2c0.svg",
     "static/media/matlab.3d4e15a6.svg": "/raj-webfolio/static/media/matlab.3d4e15a6.svg",
+    "static/media/maya.0bf58694.svg": "/raj-webfolio/static/media/maya.0bf58694.svg",
     "static/media/memsql.aecce246.svg": "/raj-webfolio/static/media/memsql.aecce246.svg",
     "static/media/microsoftoffice.c3a1f4f1.svg": "/raj-webfolio/static/media/microsoftoffice.c3a1f4f1.svg",
     "static/media/mongoDB.6c6da702.svg": "/raj-webfolio/static/media/mongoDB.6c6da702.svg",
@@ -151,13 +152,14 @@
     "static/media/wolframalpha.24726d34.svg": "/raj-webfolio/static/media/wolframalpha.24726d34.svg",
     "static/media/wordpress.1c0bf6df.svg": "/raj-webfolio/static/media/wordpress.1c0bf6df.svg",
     "static/media/yellowTheme-boy.9ddb06c0.svg": "/raj-webfolio/static/media/yellowTheme-boy.9ddb06c0.svg",
-    "static/media/yellowTheme-girl.641f7b0b.svg": "/raj-webfolio/static/media/yellowTheme-girl.641f7b0b.svg"
+    "static/media/yellowTheme-girl.641f7b0b.svg": "/raj-webfolio/static/media/yellowTheme-girl.641f7b0b.svg",
+    "static/media/zbrush.c94f3c59.svg": "/raj-webfolio/static/media/zbrush.c94f3c59.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.f2f6a18d.js",
     "static/css/2.047b873d.chunk.css",
     "static/js/2.7956b845.chunk.js",
-    "static/css/main.5b0f8e31.chunk.css",
-    "static/js/main.68cdb069.chunk.js"
+    "static/css/main.d2ed4a3f.chunk.css",
+    "static/js/main.9f049cd6.chunk.js"
   ]
 }
