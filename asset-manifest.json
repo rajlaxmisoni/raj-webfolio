@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/raj-webfolio/static/css/main.609edc30.chunk.css",
-    "main.js": "/raj-webfolio/static/js/main.e2e34f2c.chunk.js",
-    "main.js.map": "/raj-webfolio/static/js/main.e2e34f2c.chunk.js.map",
+    "main.js": "/raj-webfolio/static/js/main.e44faa34.chunk.js",
+    "main.js.map": "/raj-webfolio/static/js/main.e44faa34.chunk.js.map",
     "runtime-main.js": "/raj-webfolio/static/js/runtime-main.f2f6a18d.js",
     "runtime-main.js.map": "/raj-webfolio/static/js/runtime-main.f2f6a18d.js.map",
     "static/css/2.047b873d.chunk.css": "/raj-webfolio/static/css/2.047b873d.chunk.css",
@@ -97,6 +97,6 @@
     "static/css/2.047b873d.chunk.css",
     "static/js/2.c91861d8.chunk.js",
     "static/css/main.609edc30.chunk.css",
-    "static/js/main.e2e34f2c.chunk.js"
+    "static/js/main.e44faa34.chunk.js"
   ]
 }
